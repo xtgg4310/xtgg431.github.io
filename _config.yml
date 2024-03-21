@@ -25,15 +25,15 @@ author:
   avatar           : "profile.png"
   name             : "HOU Haozheng"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "A Ph.D. Candidare in CUHK IE Dept."
+  location         : "Hong Kong, China"
   employer         : "The Chinese University of Hong Kong"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "1155161507@link.cuhk.edu.hk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=U97ZN3gAAAAJ&hl=zh-CN&oi=ao"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
