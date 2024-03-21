@@ -13,7 +13,7 @@ title                    : "HOU Haozheng"
 title_separator          : "-"
 name                     : &name "HOU Haozheng"
 description              : &description "personal description"
-url                      : https://xtgg4310.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xtgg4310/xtgg4310.github.io"
 
